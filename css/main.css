@@ -1,0 +1,25 @@
+body {
+	background-color: #fff;
+	overflow-x: hidden;
+}
+
+#opt-title {
+	min-width: 35vw;
+	margin-left: 5%;
+	opacity: .9;
+}
+
+#opt-logo {
+	min-width: 10vw;
+}
+
+.wrapper {
+	display: flex;
+	justify-content: center;
+}
+
+.header__title {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
